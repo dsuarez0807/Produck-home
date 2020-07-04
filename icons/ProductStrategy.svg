@@ -1,0 +1,6 @@
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M19 20H5V24H19V20Z" stroke="#67CDFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 17H8V20H16V17Z" stroke="#67CDFF" stroke-width="2"/>
+<path d="M15 0.999976V3.49998H11.5C11.5 1.09998 13.8333 0.83331 15 0.999976Z" fill="#67CDFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18 17H6L7.8757 8.87196C8.51501 6.10162 10.9297 4.11612 13.7501 4.00492L14 4H15.382C15.7607 4 16.107 4.214 16.2764 4.55279L16.7236 5.44721C16.893 5.786 17.2393 6 17.618 6H19C19.5523 6 20 6.44772 20 7V8C20 8.55228 19.5523 9 19 9H14L18 17Z" stroke="#67CDFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
